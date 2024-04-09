@@ -6,6 +6,7 @@
 
 ### My Portfolio <span><a href= "https://olha-danylevska-pink-portfolio.netlify.app/">Link</a></span>
 ### My Skils:
+<br/>
 <div >
   <img height="40px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
   <img height="40px"src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
@@ -20,7 +21,7 @@
   <img height="40px"src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png"/>
   <img height="40px"src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"/>
 </div>
-
+<p align="left"> <img src="https://www.codewars.com/users/OlhaDanylevska/badges/large" alt="score" /> </p>
 ### 📫 How to reach me: odanilevskaya2@gmail.com
 
 
