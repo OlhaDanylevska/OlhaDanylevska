@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="120px" >
 
 ### My Portfolio <span><a href= "https://olha-danylevska-pink-portfolio.netlify.app/">Link</a></span>
-### My Skils:
+### My Skills:
 <br/>
 <div >
   <img height="40px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
